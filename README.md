@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @colonelcustard92
-- 👀 I’m interested in C#, React, TS, Python and SQL
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Reece!
+- 👀 I’m interested in C#, React, Azure and Python
+- 🌱 I’m currently learning a bit of everything really!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bananas are slightly radioactive because of their potassium content! 🍌
 
